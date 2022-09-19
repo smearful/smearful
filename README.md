@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenue, I'm Pranav Peesapati👋🏻</h1>
 <h5>I'm currently pursuing B.Tech in CSE with Big Data Analytics at SRM University, Kattankulathur</h3>
-<p >I'm a curious person who loves to learn. Tenacious at heart, I <strong><i> will </i></strong> solve any problem that come my way.</p> <br>
+<p >I'm a curious person who loves to learn. Tenacious at heart, I <strong><i> will </i></strong> solve any problem that comes my way.</p> <br>
     
 <h2><u> Current Skills </u></h2>
 - 🎻 I play the violin.<br>
