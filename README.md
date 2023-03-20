@@ -1,15 +1,15 @@
 <h1 align="center">Bienvenue, I'm Pranav Peesapati👋🏻</h1>
 <h5>I'm currently pursuing B.Tech in CSE with Big Data Analytics at SRM University, Kattankulathur</h3>
-<p >I'm a curious person who loves to learn. Tenacious at heart, I <strong><i> will </i></strong> solve any problem that comes my way.</p> <br>
+<p >I'm an inquisitive person who loves to learn just about anything. I love meeting new people and getting to see different perspectives. Skilled in C, C++, HTML/CSS. Currently learning Python and will learn many, many more languages. Tenacious at heart, I <strong><i> will </i></strong> solve any problem that comes my way.</p> <br>
     
-<h2><u> Current Skills </u></h2>
-- 🎻 I play the violin.<br>
-- 💬 I enjoy talking about C , C++ and HLTML/CSS.<br>
-- 💭 I’m currently learning C++ and React.js <br><br>
+<h2><u> Hobbies </u></h2>
+- 🎻 I play the violin and keyboard.<br>
+- 💬 I enjoy talking about space, cars/bikes and anything mechanical.<br>
+- 💭 I’m curious about Machine Learning and Data Science <br><br>
  
-<h2><u>What's happening currently?</u></h2>
-- 📋 I’m currently working on a Data Science course .<br>
-- 🖥️ I enjoy working on C and HTML/CSS based projects.<br>
+<h2><u>What's happening currently</u></h2>
+- 📋 I would love to work on some Data Science projects.<br>
+- 🖥️ I’m currently learning Python.<br>
 - 📧 Contact me at <strong> <i> pranavpeesapati@gmail.com </i> </strong> <br>
-- 🎧 I love reading comics/mangas, watching anime and playing Valorant.
+- 🎧 I love reading sci-fi mystery novels/comics/mangas, watching anime and playing Valorant.
    </p>
