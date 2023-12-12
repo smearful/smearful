@@ -20,3 +20,8 @@
 - 📋 I would love to work on some Data Visualization projects.<br>
 - 🖥️ I’m currently learning Tableau<br>
    </p>
+
+
+
+
+![Next.js](Desktop/Programming/techstack/NextJS-Dark.svg)Next.js
