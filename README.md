@@ -24,4 +24,4 @@
 
 
 
-![Next.js](Desktop/Programming/techstack/NextJS-Dark.svg)Next.js
+- ![Next.js]("C:\Users\Prana\OneDrive\Desktop\Programming\techstack\NextJS-Dark.svg")Next.js
