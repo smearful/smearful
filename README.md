@@ -7,7 +7,8 @@
 - HTML/CSS<br>
 - C/C++<br>
 - Python<br>
-- R<br>
+- R
+- Tailwind CSS<br>
 </p>
    
 <h2><u> Hobbies </u></h2>
@@ -17,11 +18,6 @@
 - 🏁 I love reading sci-fi mystery novels/comics/mangas and watching Formula1<br><br>
  
 <h2><u>What's happening currently</u></h2>
-- 📋 I would love to work on some Data Visualization projects.<br>
-- 🖥️ I’m currently learning Tableau<br>
+- 📋 Currently working on a website using JavaScript and Tailwind CSS<br>
+- 🖥️ I’m currently learning JavaScript<br>
    </p>
-
-
-
-
-- ![Next.js]("C:\Users\Prana\OneDrive\Desktop\Programming\techstack\NextJS-Dark.svg")Next.js
