@@ -2,12 +2,13 @@
 <h3>I'm currently pursuing B.Tech in CSE with Big Data Analytics at SRM University, Kattankulathur</h3>
 <p>I'm an inquisitive person who loves to learn just about anything. I love meeting new people and getting to see different perspectives. Currently learning Python and will learn many, many more languages. Tenacious at heart, I <strong><i> will </i></strong> solve any problem that comes my way.</p> <br>
 - 📧 Contact me at <strong> <i> pranavpeesapati@gmail.com </i> </strong> <br>
+- 📄 LinkedIn: <strong>https://www.linkedin.com/in/pranav-peesapati/</strong>
 <h2><u>Skills</u></h2>
 <p>
 - HTML/CSS<br>
 - C/C++<br>
 - Python<br>
-- R
+- R <br>
 - Tailwind CSS<br>
 </p>
    
