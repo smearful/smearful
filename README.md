@@ -16,7 +16,7 @@ I'm an endlessly curious individual with a knack for diving headfirst into learn
 </div>
 <br/>
 <div align="center">
-  <h2>What I know</h2>
+  <h2>Languages and Tools</h2>
   <img src="https://skillicons.dev/icons?i=git,github,html,css,tailwind,c,cpp,py,mysql,vscode,mongodb" alt="skill logos" />
   <br /> 
   <h2>Currently Pursuing</h2>
