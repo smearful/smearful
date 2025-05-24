@@ -24,8 +24,8 @@ I'm an endlessly curious individual with a knack for diving headfirst into learn
   <h2>Hobbies</h2>
    <ul align="left">
   <li>Cars, bikes, bicycles (anything mechanical)</li>
-  <li>Music, playing Violin and Keyboard</li>
-  <li>Video games and comics</li>
+  <li>Listening to music, playing Violin and Keyboard</li>
+  <li>Video games and Comics</li>
 </ul>
 </div>
 
