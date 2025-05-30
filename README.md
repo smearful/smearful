@@ -19,13 +19,15 @@ I'm an endlessly curious individual with a knack for diving headfirst into learn
   <h2>Languages and Tools</h2>
   <img src="https://skillicons.dev/icons?i=git,github,html,css,tailwind,c,cpp,py,mysql,vscode,mongodb" alt="skill logos" />
   <br /> 
-  <h2>Currently Pursuing</h2>
+  <h2>Currently Learning</h2>
   <img src="https://skillicons.dev/icons?i=django,azure" alt="skills actively learning logos">
   <h2>Hobbies</h2>
    <ul align="left">
-  <li>Cars, bikes, bicycles (anything mechanical)</li>
-  <li>Listening to music, playing Violin and Keyboard</li>
-  <li>Video games and Comics</li>
+   <li>Enthusiast of all things mechanical—whether it’s cars, bikes, or bicycles, if it has gears, I’m intrigued.</li>
+   <li>Passionate about streamlining everyday life; I’m always on the lookout for clever optimizations (because why settle for “good enough”?).</li>
+   <li>Music lover and amateur multi-instrumentalist, with a particular fondness for the violin and keyboard—sometimes both at once, if the mood strikes.</li>
+   <li>Avid explorer of virtual worlds and comic universes; I believe a good story is just as important as a good strategy.</li>
+   <li>A dedicated gamer who enjoys the challenge, creativity, and camaraderie that video games bring—because sometimes, saving the world is just a controller away.</li>
 </ul>
 </div>
 
